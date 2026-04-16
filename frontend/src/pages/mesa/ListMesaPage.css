@@ -1,0 +1,26 @@
+.list-mesa {
+    margin-top: 10px;
+}
+
+ion-item {
+    --padding-start: 16px;
+    --inner-padding-end: 16px;
+    margin-bottom: 8px;
+    border-radius: 8px;
+    --background: #f4f4f4;
+}
+
+ion-badge {
+    padding: 8px;
+    font-size: 0.8em;
+    border-radius: 4px;
+}
+
+h2 {
+    font-weight: bold !important;
+    color: #333;
+}
+
+p {
+    color: #666;
+}

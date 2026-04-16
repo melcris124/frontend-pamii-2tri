@@ -37,3 +37,7 @@ import './pages/produto/EditProdutoPage.js';
 import './pages/usuario/ListUsuarioPage.js';
 import './pages/usuario/CadUsuarioPage.js';
 import './pages/usuario/EditUsuarioPage.js';
+
+// MESA
+import './pages/mesa/ListMesaPage.js'; 
+import './pages/mesa/CadMesaPage.js';
